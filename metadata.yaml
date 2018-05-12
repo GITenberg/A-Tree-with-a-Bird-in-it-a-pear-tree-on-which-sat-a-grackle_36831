@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2463
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Widdemer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36831#A-Tree-with-a-Bird-in-it-a-pear-tree-on-which-sat-a-grackle
 gutenberg_issued: '2011-07-24'
 gutenberg_type: Text
 identifiers:
