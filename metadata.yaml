@@ -1,0 +1,34 @@
+_repo: A-Tree-with-a-Bird-in-it-a-pear-tree-on-which-sat-a-grackle_36831
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Saphier, William
+    gutenberg_agent_id: '38500'
+    url: http://www.gutenberg.org/2009/agents/38500
+covers:
+- cover_type: archival
+  image_path: 36831-h/images/scover.jpg
+creator:
+  author:
+    agent_name: Widdemer, Margaret
+    birthdate: 1884
+    deathdate: 1978
+    gutenberg_agent_id: '2463'
+    url: http://www.gutenberg.org/2009/agents/2463
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Widdemer
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parodies'
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+title: "A Tree with a Bird in it:\r\nA Symposium of Contemporary American Poets on\
+  \ Being Shown a Pear-tree on Which Sat a Grackle"
+url: http://www.gutenberg.org/ebooks/36831
